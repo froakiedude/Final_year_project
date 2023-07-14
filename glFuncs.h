@@ -1,0 +1,1 @@
+void RenderString(float x, float y, void *font, char* string, int r, int g, int b){};
